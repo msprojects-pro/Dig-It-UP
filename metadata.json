@@ -1,0 +1,6 @@
+{
+  "name": "Dig It Up Groundworks",
+  "description": "Professional groundworks and construction company based in Harwich, Essex, UK, specializing in foundations, drainage, driveways, and site preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
